@@ -210,5 +210,5 @@ Works best in **Google Chrome** or **Microsoft Edge**. These browsers have the m
 
 ## Development
 
-Built by Abhishek as a full-stack demonstration of modern web technologies and AI integration.
+Built by ❤️ Abhishek as a full-stack demonstration of modern web technologies and AI integration.
 
