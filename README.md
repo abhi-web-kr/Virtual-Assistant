@@ -2,6 +2,8 @@
 
 An intelligent voice-controlled assistant built with React and Node.js, powered by Google's Gemini AI. Create your own personalized AI companion that responds to voice commands and performs various web tasks.
 
+![Background Image](./frontend/public/image-bg.png)
+
 ## Overview
 
 This project allows users to build their own virtual assistant with a custom name and appearance. The assistant listens continuously for its name followed by commands, processes them using Gemini AI, and responds with both voice and actions.
@@ -211,4 +213,3 @@ Works best in **Google Chrome** or **Microsoft Edge**. These browsers have the m
 ## Development
 
 Built by ❤️ Abhishek as a full-stack demonstration of modern web technologies and AI integration.
-
